@@ -1,0 +1,36 @@
+Rk_rushing_allowed,Tm,Rushing_att_allowed,Rushing_Yds_allowed,Rushing_Tds_allowed,Y/A_rushing_allowed,Y/G_rushing_allowed,EXP_rushing_allowed
+1.0,Green Bay Packers,130.0,459.0,3.0,3.5,76.5,9.98
+2.0,Seattle Seahawks,161.0,530.0,2.0,3.3,75.7,22.43
+3.0,New England Patriots,157.0,540.0,3.0,3.4,77.1,16.96
+4.0,Houston Texans,149.0,571.0,7.0,3.8,95.2,-0.87
+5.0,Cleveland Browns,177.0,577.0,3.0,3.3,82.4,36.58
+6.0,Detroit Lions,155.0,614.0,5.0,4.0,87.7,8.99
+7.0,Indianapolis Colts,150.0,632.0,3.0,4.2,90.3,-7.54
+8.0,Jacksonville Jaguars,162.0,638.0,4.0,3.9,91.1,9.29
+9.0,Carolina Panthers,159.0,648.0,5.0,4.1,92.6,17.48
+10.0,Denver Broncos,170.0,653.0,4.0,3.8,93.3,9.56
+11.0,Tampa Bay Buccaneers,176.0,693.0,7.0,3.9,99.0,2.05
+12.0,Pittsburgh Steelers,157.0,695.0,4.0,4.4,115.8,-9.56
+13.0,San Francisco 49ers,178.0,706.0,4.0,4.0,100.9,2.04
+14.0,Arizona Cardinals,170.0,706.0,7.0,4.2,100.9,4.97
+15.0,Minnesota Vikings,170.0,706.0,4.0,4.2,117.7,-0.13
+16.0,Las Vegas Raiders,183.0,724.0,9.0,4.0,103.4,6.45
+17.0,Kansas City Chiefs,163.0,740.0,6.0,4.5,105.7,-9.11
+18.0,Los Angeles Rams,190.0,741.0,2.0,3.9,105.9,-3.83
+19.0,Atlanta Falcons,157.0,744.0,4.0,4.7,124.0,-8.44
+20.0,Baltimore Ravens,179.0,806.0,9.0,4.5,134.3,-14.31
+21.0,Chicago Bears,155.0,826.0,4.0,5.3,137.7,2.83
+22.0,Los Angeles Chargers,171.0,865.0,10.0,5.1,123.6,-24.91
+23.0,Washington Commanders,203.0,882.0,5.0,4.3,126.0,-6.27
+24.0,Philadelphia Eagles,196.0,895.0,9.0,4.6,127.9,-20.1
+25.0,New York Jets,219.0,905.0,5.0,4.1,129.3,-2.57
+26.0,New Orleans Saints,218.0,906.0,6.0,4.2,129.4,7.66
+27.0,New York Giants,175.0,915.0,9.0,5.2,130.7,-28.57
+28.0,Buffalo Bills,163.0,938.0,9.0,5.8,156.3,-31.75
+29.0,Cincinnati Bengals,206.0,961.0,8.0,4.7,137.3,-18.71
+30.0,Tennessee Titans,215.0,977.0,12.0,4.5,139.6,-9.96
+31.0,Dallas Cowboys,211.0,989.0,8.0,4.7,141.3,-25.68
+32.0,Miami Dolphins,214.0,1115.0,9.0,5.2,159.3,-15.54
+,Avg Team,176.2,759.3,5.9,4.3,112.5,-2.5
+,League Total,5639.0,24297.0,189.0,4.3,112.5,
+,Avg Tm/G,26.1,112.5,0.9,4.3,112.5,
